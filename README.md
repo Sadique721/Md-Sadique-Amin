@@ -19,7 +19,7 @@ I’m a passionate software engineer focused on building efficient, user-friendl
 ---
 
 ## 🚀 Projects
-- 🔹 **Agrotech Web App** – CRUD app using Spring Boot + MySQL  
+- 🔹 **Agrotech Web App** – CRUD app using Django + MySQL  
 - 🔹 **SDG Solutions** – Tech for Good projects based on UN Sustainable Development Goals  
 - 🔹 **React UI Dashboards** – Responsive React interfaces with component-based architecture  
 - 🔹 **Student Portal** – Academic management system with secure login and dynamic data  
